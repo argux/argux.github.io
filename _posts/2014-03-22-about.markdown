@@ -1,0 +1,8 @@
+---
+layout: docs
+title:  "About Argux"
+date:   2014-03-22 10:00:06
+categories: docs
+---
+
+Argux monitoring... docs

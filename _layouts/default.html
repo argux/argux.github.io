@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="site">
+          <div class="header">
+            <div class="title">
+                <a href="/"><img src="/logo-white.png" alt="Argux"/></a>
+            </div>
+            <div class="menu">
+                {% if page.active == 'home' %}
+                <a class="extra active" href="/">home</a>
+                {% else %}
+                <a class="extra" href="/">home</a>
+                {% endif %}
+                {% if page.active == 'docs' %}
+                <a class="extra active" href="/docs">docs</a>
+                {% else %}
+                <a class="extra" href="/docs">docs</a>
+                {% endif %}
+                {% if page.active == 'downloads' %}
+                <a class="extra active" href="/downloads">downloads</a>
+                {% else %}
+                <a class="extra" href="/downloads">downloads</a>
+                {% endif %}
+            </div>
+          </div>
+
+          <div class="content">
+          {{ content }}
+          </div>
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Github 
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="https://github.com/argux">github.com/argux</a>
+              </p>
+            </div>
+          </div>
+        </div>
+    </body>
+</html>
