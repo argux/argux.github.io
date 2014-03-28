@@ -8,9 +8,9 @@ As many Open-Source projects, argux is one of those projects that was
 founded on the arrogant assumption that everyone else is wrong and I
 obviously I can do better then all of them.
 
-I *might* have been wrong...
-
 The result of my effort led to the implementation of Argux. Which is radically different in a number of ways from traditional monitoring software.
+
+And ofcourse, it does not work yet
 
 ## Decentralised configuration ##
 The configuration that determines what is monitored on a client, with what frequency, and if that information will be leaked to a remote server is managed locally. The central server can not influence the frequency at which information is receive, or choose to retrieve information that is not authorised by the client.
