@@ -44,3 +44,6 @@ The server and client communicate over SSL - which is both used for
 encryption and identification of both clients and servers.
 
 ## Stand-Alone Agent ##
+The agent can work as a stand-alone system for monitoring a system
+state. It provides a central interface for showing it's current
+state and the recent history.
