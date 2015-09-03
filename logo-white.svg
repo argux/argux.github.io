@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="140"
-   height="50"
-   viewBox="0 0 140 50.000001"
+   width="145"
+   height="49.999996"
+   viewBox="0 0 144.99999 49.999996"
    version="1.1"
    id="svg3336"
    inkscape:version="0.91 r13725"
@@ -34,32 +34,45 @@
   <defs
      id="defs3346" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
      inkscape:window-height="939"
      id="namedview3344"
      showgrid="false"
      inkscape:zoom="4.2720372"
-     inkscape:cx="61.737591"
-     inkscape:cy="8.9784173"
+     inkscape:cx="71.025002"
+     inkscape:cy="8.7442688"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1002.3622)">
+     transform="translate(7.9999695,-1002.1281)">
+    <rect
+       style="opacity:1;fill:#00694c;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4202"
+       width="50"
+       height="50"
+       x="-8"
+       y="1002.1281"
+       ry="6.3201694" />
     <path
-       style="fill:#009499;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#00d299;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 3,1037.3622 5,10 5,-15 10,0 5,15 5,-10 -10,-30 -10,0 z"
        id="path3336"
        inkscape:connector-curvature="0"
@@ -72,14 +85,14 @@
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="34.640625"
-       y="1038.7294"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="33.640656"
+       y="1037.793"
        id="text4230"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4232"
-         x="34.640625"
-         y="1038.7294">rgux</tspan></text>
+         x="33.640656"
+         y="1037.793">rgux</tspan></text>
   </g>
 </svg>
