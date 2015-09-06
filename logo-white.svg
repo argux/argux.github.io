@@ -17,8 +17,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="logo-white.svg"
    inkscape:export-filename="/Users/sarts/private/argux/argux.github.io/logo-white.png"
-   inkscape:export-xdpi="67.5"
-   inkscape:export-ydpi="67.5">
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
   <metadata
      id="metadata3348">
     <rdf:RDF>
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,12 +43,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="939"
+     inkscape:window-height="947"
      id="namedview3344"
      showgrid="false"
-     inkscape:zoom="4.2720372"
-     inkscape:cx="69.971641"
-     inkscape:cy="8.7442688"
+     inkscape:zoom="4.359518"
+     inkscape:cx="60.811182"
+     inkscape:cy="14.142135"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,31 +68,31 @@
        id="rect4202"
        width="48"
        height="48"
-       x="-6.9999771"
-       y="1003.1281"
+       x="-6.9949794"
+       y="1003.057"
        ry="6.0673628" />
-    <path
-       style="fill:#00d299;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3,1037.3622 5,10 5,-15 10,0 5,15 5,-10 -10,-30 -10,0 z"
-       id="path3336"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 16,1024.3622 2,-6 2,6 z"
-       id="path4150"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="33.640656"
+       x="34.851585"
        y="1037.793"
        id="text4230"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4232"
-         x="33.640656"
+         x="34.851585"
          y="1037.793">rgux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-0.51365024"
+       y="1049.8616"
+       id="text4146"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0062333,0.99380532)"><tspan
+         sodipodi:role="line"
+         id="tspan4148"
+         x="-0.51365024"
+         y="1049.8616">A</tspan></text>
   </g>
 </svg>
