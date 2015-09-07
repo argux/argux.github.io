@@ -16,7 +16,7 @@
    id="svg3336"
    inkscape:version="0.91 r13725"
    sodipodi:docname="icon.svg"
-   inkscape:export-filename="/Users/sarts/private/argux/argux.github.io/logo-white.png"
+   inkscape:export-filename="/Users/sarts/private/argux/argux.github.io/logo.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
   <metadata
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,7 +47,7 @@
      id="namedview3344"
      showgrid="false"
      inkscape:zoom="4.359518"
-     inkscape:cx="56.791984"
+     inkscape:cx="20.205371"
      inkscape:cy="14.071053"
      inkscape:window-x="0"
      inkscape:window-y="0"
