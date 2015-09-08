@@ -1,8 +1,14 @@
 ---
 layout: docs
 title:  "Architecture"
-date:   2014-03-22 10:00:06
+date:   2015-09-08 09:13:00
 categories: docs
 ---
 
-todo
+## arguxd
+
+<div>
+    <img src="/images/arguxd_components.png"/>
+</div>
+
+## argux
