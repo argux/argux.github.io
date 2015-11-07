@@ -38,12 +38,3 @@ Ofcourse, you could argue that decentralising the configuration of
 your monitoring solution is a step backwards in time. But there are
 other systems that can be used to centrally manage your systems,
 including argux, like puppet or chef.
-
-## Encrypted communication ##
-The server and client communicate over SSL - which is both used for
-encryption and identification of both clients and servers.
-
-## Stand-Alone Agent ##
-The agent can work as a stand-alone system for monitoring a system
-state. It provides a central interface for showing it's current
-state and the recent history.
