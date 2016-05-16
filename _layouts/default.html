@@ -39,11 +39,7 @@
             {% else %}
             <li><a href="/">Home</a></li>
             {% endif %}
-            {% if page.active == 'docs' %}
-            <li><a class="active" href="/docs">Docs</a></li>
-            {% else %}
-            <li><a href="/docs">Docs</a></li>
-            {% endif %}
+            <li><a href="http://argux-server.readthedocs.org">Docs</a></li>
             {% if page.active == 'downloads' %}
             <li><a class="active" href="/downloads">Downloads</a></li>
             {% else %}
@@ -58,13 +54,12 @@
       </div>
       <footer class="footer">
         <div class="container">
-           <p class="text-muted"><a href="https://github.com/argux">github.com/argux</a></p>
+           <p class="text-muted"><a href="https://github.com/argux" class="button">github.com/argux</a></p>
         </div>
       </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
         <!-- Latest compiled and minified JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-
     </body>
 </html>
