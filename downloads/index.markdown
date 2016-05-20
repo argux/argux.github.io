@@ -11,5 +11,5 @@ There are no releases
     
 ## Development ##
 ```
-$ git clone https://github.com/argux/argux.git
+$ git clone https://github.com/argux/server.git
 ```
